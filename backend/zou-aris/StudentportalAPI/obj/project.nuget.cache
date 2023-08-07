@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MD8oEJreyaIUjp9UsjcTWKrKeNnEJayvMtLPpy264Az3h1P7rec41NzpiINA5Iak4VxNbVJKkBvZhLbxlZeM7g==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\c#\\zou\\backend\\zou-aris\\StudentportalAPI\\StudentportalAPI.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\misib\\.nuget\\packages\\fsharp.core\\7.0.300\\fsharp.core.7.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}

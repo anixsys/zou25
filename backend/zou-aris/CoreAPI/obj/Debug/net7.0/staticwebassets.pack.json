@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\projects\\c#\\zou\\backend\\zou-aris\\CoreAPI\\wwwroot\\applicants\\2af38b68-0e61-4661-8f0f-fcd7ace7dff0.pdf",
+      "PackagePath": "staticwebassets\\applicants\\2af38b68-0e61-4661-8f0f-fcd7ace7dff0.pdf"
+    },
+    {
+      "Id": "C:\\projects\\c#\\zou\\backend\\zou-aris\\CoreAPI\\wwwroot\\applicants\\5391496f-9a9f-4297-b7d5-8a6aa70d71b4.pdf",
+      "PackagePath": "staticwebassets\\applicants\\5391496f-9a9f-4297-b7d5-8a6aa70d71b4.pdf"
+    },
+    {
+      "Id": "C:\\projects\\c#\\zou\\backend\\zou-aris\\CoreAPI\\wwwroot\\applicants\\54e734cd-13b9-4035-b959-4c715ccc13b9.pdf",
+      "PackagePath": "staticwebassets\\applicants\\54e734cd-13b9-4035-b959-4c715ccc13b9.pdf"
+    },
+    {
+      "Id": "C:\\projects\\c#\\zou\\backend\\zou-aris\\CoreAPI\\wwwroot\\applicants\\64b61d47-c3f1-4f44-be62-0d9f96881cc4.pdf",
+      "PackagePath": "staticwebassets\\applicants\\64b61d47-c3f1-4f44-be62-0d9f96881cc4.pdf"
+    },
+    {
+      "Id": "C:\\projects\\c#\\zou\\backend\\zou-aris\\CoreAPI\\wwwroot\\applicants\\c8b2c673-2f76-48cd-aae2-d298d7478291.pdf",
+      "PackagePath": "staticwebassets\\applicants\\c8b2c673-2f76-48cd-aae2-d298d7478291.pdf"
+    },
+    {
+      "Id": "C:\\projects\\c#\\zou\\backend\\zou-aris\\CoreAPI\\wwwroot\\applicants\\e6d81d88-0580-4aea-a58e-6a9836709562.pdf",
+      "PackagePath": "staticwebassets\\applicants\\e6d81d88-0580-4aea-a58e-6a9836709562.pdf"
+    },
+    {
+      "Id": "C:\\projects\\c#\\zou\\backend\\zou-aris\\CoreAPI\\wwwroot\\logo\\Untitled-1.fw.png",
+      "PackagePath": "staticwebassets\\logo\\Untitled-1.fw.png"
+    },
+    {
+      "Id": "C:\\projects\\c#\\zou\\backend\\zou-aris\\CoreAPI\\wwwroot\\logo\\logo.jpg",
+      "PackagePath": "staticwebassets\\logo\\logo.jpg"
+    },
+    {
+      "Id": "C:\\projects\\c#\\zou\\backend\\zou-aris\\CoreAPI\\wwwroot\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\projects\\c#\\zou\\backend\\zou-aris\\CoreAPI\\wwwroot\\logo\\signature.jpg",
+      "PackagePath": "staticwebassets\\logo\\signature.jpg"
+    },
+    {
+      "Id": "C:\\projects\\c#\\zou\\backend\\zou-aris\\CoreAPI\\wwwroot\\profile\\profile.jpg",
+      "PackagePath": "staticwebassets\\profile\\profile.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CoreAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.CoreAPI.props",
+      "PackagePath": "build\\CoreAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.CoreAPI.props",
+      "PackagePath": "buildMultiTargeting\\CoreAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.CoreAPI.props",
+      "PackagePath": "buildTransitive\\CoreAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

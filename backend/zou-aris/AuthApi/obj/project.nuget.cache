@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4/SReZgxy/gPB1vvWTssz8aD2jvUR+Kh3wSYCGnfIB47Hy6r0PWU/SLD9X6djaANxv9qxQhFyG6w10f6NN2IMw==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\c#\\zou\\backend\\zou-aris\\AuthApi\\AuthApi.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\misib\\.nuget\\packages\\fsharp.core\\7.0.300\\fsharp.core.7.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}

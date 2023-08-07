@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AM5FmmiazbUpQ0dkQOueJ9vYmjed+hWGNq63SJygfCzsb15+vMmg+RWE0RoPyV4if5vWOSI4JwV6+0xiIxoPhw==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\c#\\zou\\backend\\zou-aris\\OnlineapplicationAPI\\OnlineapplicationAPI.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\misib\\.nuget\\packages\\fsharp.core\\7.0.300\\fsharp.core.7.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
